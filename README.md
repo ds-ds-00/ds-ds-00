@@ -9,7 +9,8 @@
 
 ---
 <h4>Tryhackme profile</h4>
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3216103" style='border:none;'></iframe>
+<img src="https://tryhackme-badges.s3.amazonaws.com/drolex2004.png" alt="Your Image Badge" />
+
 ---
 
 ## ⚔️ Skills
