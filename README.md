@@ -25,11 +25,10 @@
 
 ## 🧑‍💻 About Me
 
-- 🎓 **B.Tech CSE** student (2nd Year) with a focus on offensive security
+- 🎓 **B.Tech CSE** student (2nd Year) with a focus on WebApp security
 - 🐛 **Philips HackerOne VDP Hall of Fame** — discovered a critical API key exposure in production JS
 - 🏆 **TryHackMe Top 2%** globally — Jr Pentester & Pre-Security paths completed
-- 🚩 **CTF Player** — GNIT CTF 2026 participant
-- 🔬 Completed all **PortSwigger SSTI labs** + selected SQLi & XSS labs
+- 🚩 **CTF Player**
 - 📖 Self-taught since **August 2024** — building real skills, one lab at a time
 - 📝 I write security writeups on **[Medium](https://medium.com/@roLeX_0)**
 
@@ -43,8 +42,8 @@
 | 🥇 TryHackMe Top 2% | Global ranking out of hundreds of thousands |
 | 📜 Jr Penetration Tester | TryHackMe certification — completed |
 | 📜 Pre-Security Path | TryHackMe certification — completed |
-| 🚩 GNIT CTF 2026 | Capture The Flag participant |
-| 🔬 PortSwigger Web Academy | All SSTI labs + SQLi & XSS labs completed |
+| 🚩 Phantom Breach CTF 2026 | Capture The Flag participant |
+
 
 ---
 
@@ -52,15 +51,8 @@
 
 **Penetration Testing**
 
-![Nmap](https://img.shields.io/badge/Nmap-214A6B?style=flat-square&logo=linux&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-E34234?style=flat-square&logo=metasploit&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
-![Netcat](https://img.shields.io/badge/Netcat-333333?style=flat-square&logo=linux&logoColor=white)
-![Gobuster](https://img.shields.io/badge/Gobuster-4B0082?style=flat-square&logo=linux&logoColor=white)
-![John](https://img.shields.io/badge/John_the_Ripper-CC0000?style=flat-square&logo=linux&logoColor=white)
-![Hashcat](https://img.shields.io/badge/Hashcat-2C2C2C?style=flat-square&logo=linux&logoColor=white)
-![BetterCAP](https://img.shields.io/badge/BetterCAP-009900?style=flat-square&logo=linux&logoColor=white)
+![Web Pentesting](https://img.shields.io/badge/Web_Pentesting-FF6633?style=flat-square&logoColor=white)
+![Network Pentesting](https://img.shields.io/badge/Network_Pentesting-214A6B?style=flat-square&logoColor=white)
 
 **Languages & Development**
 
