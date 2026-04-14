@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <b>Security Enthusiast &nbsp;|&nbsp; Penetration Tester &nbsp;|&nbsp; CTF Player &nbsp;|&nbsp; Bug Hunter</b>
+  <b>Cyber Security Enthusiast &nbsp;|&nbsp; Penetration Tester &nbsp;|&nbsp; CTF Player &nbsp;|&nbsp; Bug Hunter</b>
 </p>
 
 <p align="center">
