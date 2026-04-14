@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=1A56DB&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Suvam+Dolai;aka+%22drolex%22;Penetration+Tester+in+the+Making;Bug+Hunter+%7C+CTF+Player" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=1A56DB&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Suvam+Dolai;aka+%22drolex%22;Penetration+Tester;Bug+Hunter+%7C+CTF+Player" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -69,7 +69,7 @@
 **Operating Systems & Platforms**
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows&logoColor=white)
 
 ---
 
@@ -102,15 +102,15 @@
 
 ## 📝 Latest Writeups
 
-<!-- Replace with your actual Medium post links -->
+
 - 📖 Check out my writeups on **[Medium → @roLeX_0](https://medium.com/@roLeX_0)**
 
 ---
 
 <p align="center">
-  <i>"The quieter you become, the more you are able to hear."</i> — Kali Linux motto
+  <i>"The quieter you become, the more you are able to hear."
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ds-ds-00&style=flat-square&color=1A56DB" alt="Profile views"/>
-</p>
+</p> -->
