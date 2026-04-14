@@ -73,16 +73,6 @@
 
 ---
 
-## 🚩 Projects
-
-### 🔧 MAC Address Changer
-> Python tool to automate MAC address spoofing on Linux interfaces for privacy and network testing.
-
-### 🌐 IP Lookup Tool
-> Bash script for IP geolocation and WHOIS lookups — returns ISP, ASN, country, city, and hostname.
-
----
-
 ## 📊 TryHackMe Stats
 
 <p align="left">
